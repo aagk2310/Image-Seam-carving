@@ -1,4 +1,4 @@
-Seam Carving Project
+Seam Carving Project-
 Overview
 This project implements Seam Carving, a content-aware image resizing algorithm. Seam carving removes or inserts seams of pixels from an image to reduce or increase its dimensions while minimizing distortion to the important content. It intelligently determines which areas are less important and removes those first, preserving the main objects in the image.
 
