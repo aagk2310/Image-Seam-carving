@@ -24,7 +24,10 @@ The algorithm first reduces the width to the target size and then adjusts the he
 
 
                                                                                       
-Original Image-![HJoceanSmall](https://github.com/user-attachments/assets/59129f9b-162f-427e-ba21-41b3863dba0f)      Resized Image-![HJoceanSmall357x285](https://github.com/user-attachments/assets/f17aaf4c-f4be-4ea3-860d-206ba55f71aa)  
+Original Image-![HJoceanSmall](https://github.com/user-attachments/assets/59129f9b-162f-427e-ba21-41b3863dba0f)      
+
+
+Resized Image-![HJoceanSmall357x285](https://github.com/user-attachments/assets/f17aaf4c-f4be-4ea3-860d-206ba55f71aa)  
 
 Reference
 https://www.cs.princeton.edu/courses/archive/fall17/cos226/assignments/seam/index.html
