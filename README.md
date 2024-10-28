@@ -9,7 +9,9 @@ Content-aware resizing: Seam carving preserves the most important regions of an 
 Custom resizing: Users specify the desired height and width of the output image.
 Energy-based seam selection: The seams are computed using pixel energy, minimizing changes to important regions.
 Command-line input: The code prompts users to input the file path and desired dimensions.
+
 How Seam Carving Works
+
 Energy Calculation:
 The energy of each pixel is calculated based on the difference between neighboring pixel intensities (horizontal and vertical gradients).
 
