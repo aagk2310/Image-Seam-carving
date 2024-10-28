@@ -26,11 +26,13 @@ The algorithm first reduces the width to the target size and then adjusts the he
 
 
                                                                                       
-Original Image(1079x1920)-![sample1](https://github.com/user-attachments/assets/05f313d3-c5d2-4404-86d4-a661ef9fd885)
+Original Image(640x480)-![sample2](https://github.com/user-attachments/assets/8356ef3e-80be-4afd-9589-43c4b29f6c21)
+
       
 
 
-Resized Image(600x800)-![image](https://github.com/user-attachments/assets/71f30a12-718c-42f8-8141-fd644f7c5e83)
+Resized Image(550x300)-![output](https://github.com/user-attachments/assets/eca7a825-b9ae-44f0-a36c-226d89d0bc1b)
+
 
 
 Reference
